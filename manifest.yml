@@ -1,6 +1,6 @@
 applications:
-- name:      valerio-todo
-  host:      valerio-todo
+- name:      enniosky-todo
+  host:      enniosky-todo
   memory:    128M
   services:
   - todo-db 
